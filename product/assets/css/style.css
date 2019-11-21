@@ -1,0 +1,10 @@
+.btn-xs {
+	font-size: 13.5px !important;
+}
+.text-danger {
+	color: red;
+}
+.form-control {
+	color: black;
+	font-weight: 600;
+}
